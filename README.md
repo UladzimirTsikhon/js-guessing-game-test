@@ -34,8 +34,7 @@ Your implementation should use [binary search algorithm](https://en.wikipedia.or
 
 ---
 
-### Submit to [rs app](https://app.rs.school)
-1.
+### Submit to  AutoCode
 2.
 ...
 n.
